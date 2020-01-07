@@ -10,3 +10,4 @@
 ```bash
 docker-compose up
 ```
+Now just go to ```http://localhost```
